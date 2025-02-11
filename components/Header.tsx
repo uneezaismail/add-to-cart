@@ -39,9 +39,9 @@ const Header = () => {
             <p className="font-mono hidden sm:block text-xs md:text-sm">
               Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!
             </p>
-            <span className="inline sm:hidden text-sm">Summer Sale - 50% OFF!</span>
+            <span className="inline sm:hidden text-sm">Summer Sale - 30% OFF!</span>
             <Link href="/" className="font-semibold border-b text-xs md:text-sm">
-              ShopNow
+              ShopNow 🤍
             </Link>
           </div>
           <select className="bg-black p-1 text-xs md:text-sm">
@@ -50,6 +50,7 @@ const Header = () => {
             <option value="French">French</option>
             <option value="Spanish">Spanish</option>
             <option value="Arabic">Arabic</option>
+            <option value="Arabic">Korean</option>
           </select>
         </div>
       </div>
